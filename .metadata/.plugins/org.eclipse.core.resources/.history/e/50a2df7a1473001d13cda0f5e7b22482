@@ -1,0 +1,19 @@
+package com.producer.Producer.controller;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.RequestMapping;
+
+import com.producer.Producer.repository.ProdutoRepository;
+
+@Controller
+@RequestMapping("/produtos")
+public class ProdutoController {
+		
+	private final ProdutoRepository produtoRepository;
+
+	public ProdutoController(ProdutoRepository produtoRepository) {
+		this.produtoRepository = produtoRepository;
+		
+	}
+	
+}
