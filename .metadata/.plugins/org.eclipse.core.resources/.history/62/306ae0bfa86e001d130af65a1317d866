@@ -1,5 +1,0 @@
-package com.igor.ifood.di.notificacao;
-
-public class NotificadorSMS {
-
-}

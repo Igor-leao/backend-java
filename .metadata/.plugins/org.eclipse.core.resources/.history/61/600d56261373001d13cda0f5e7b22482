@@ -1,5 +1,0 @@
-package com.producer.Producer.repository;
-
-public interface ProdutoRepository {
-
-}
