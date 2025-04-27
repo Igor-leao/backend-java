@@ -1,0 +1,49 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        
+        {
+            "name": "TP_S1",
+            "cwd": "Projeto-Integrado-Desenvolvimento-Movel/Rent_a_House_App/Releases/TP_S1",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "TP_S1 (profile mode)",
+            "cwd": "Projeto-Integrado-Desenvolvimento-Movel/Rent_a_House_App/Releases/TP_S1",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "TP_S1 (release mode)",
+            "cwd": "Projeto-Integrado-Desenvolvimento-Movel/Rent_a_House_App/Releases/TP_S1",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "TP_S2",
+            "cwd": "Projeto-Integrado-Desenvolvimento-Movel/Rent_a_House_App/Releases/TP_S2",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "TP_S2 (profile mode)",
+            "cwd": "Projeto-Integrado-Desenvolvimento-Movel/Rent_a_House_App/Releases/TP_S2",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "TP_S2 (release mode)",
+            "cwd": "Projeto-Integrado-Desenvolvimento-Movel/Rent_a_House_App/Releases/TP_S2",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
